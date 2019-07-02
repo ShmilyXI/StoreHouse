@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18e30c2c-68aa-4989-8340-3dd561e69115" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/.idea/typescript-compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/hellow.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/images/Secret Base - 吉他版.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/images/icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/images/icon1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/images/icons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/images/postload.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/images/qqQR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/images/social_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/images/wxQR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/src/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/src/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/src/js/newsData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/static/canvas-nest.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boke/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/app.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/pages/claUse/claUse.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/pages/claUse/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/pages/claUse/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/pages/index/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/pages/index/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/pages/index/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/pages/shop/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/pages/shop/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/src/pages/shop/shop.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/action-sheet/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/action-sheet/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/action-sheet/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/action-sheet/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/area/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/area/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/area/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/area/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/badge-group/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/badge-group/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/badge-group/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/badge-group/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/badge/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/badge/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/badge/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/badge/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/button/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/button/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/button/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/card/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/card/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/card/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/cell-group/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/cell-group/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/cell-group/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/cell-group/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/cell/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/cell/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/cell/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/cell/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/checkbox-group/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/checkbox-group/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/checkbox-group/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/checkbox-group/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/checkbox/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/checkbox/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/checkbox/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/checkbox/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/col/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/col/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/col/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/col/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/collapse-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/collapse-item/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/collapse-item/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/collapse-item/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/collapse/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/collapse/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/collapse/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/common/color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/common/component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/common/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/common/style/clearfix.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/common/style/ellipsis.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/common/style/hairline.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/common/style/mixins/clearfix.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/common/style/mixins/ellipsis.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/common/style/mixins/hairline.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/common/style/var.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/common/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/datetime-picker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/datetime-picker/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/datetime-picker/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/datetime-picker/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/dialog/dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/dialog/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/dialog/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/dialog/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/dialog/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/field/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/field/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/field/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/field/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/goods-action-button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/goods-action-button/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/goods-action-button/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/goods-action-button/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/goods-action-icon/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/goods-action-icon/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/goods-action-icon/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/goods-action-icon/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/goods-action/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/goods-action/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/goods-action/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/goods-action/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/icon/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/icon/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/icon/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/icon/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/info/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/info/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/info/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/info/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/loading/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/loading/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/loading/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/loading/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/mixins/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/mixins/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/mixins/iphonex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/mixins/link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/mixins/observer/behavior.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/mixins/observer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/mixins/observer/props.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/mixins/open-type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/mixins/touch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/mixins/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/nav-bar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/nav-bar/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/nav-bar/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/nav-bar/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/notice-bar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/notice-bar/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/notice-bar/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/notice-bar/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/notify/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/notify/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/notify/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/notify/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/notify/notify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/overlay/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/overlay/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/overlay/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/overlay/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/panel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/panel/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/panel/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/panel/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/picker-column/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/picker-column/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/picker-column/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/picker-column/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/picker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/picker/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/picker/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/picker/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/popup/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/popup/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/popup/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/popup/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/progress/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/progress/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/progress/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/progress/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/radio-group/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/radio-group/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/radio-group/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/radio-group/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/radio/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/radio/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/radio/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/radio/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/rate/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/rate/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/rate/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/rate/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/row/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/row/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/row/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/row/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/search/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/search/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/search/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/slider/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/slider/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/slider/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/slider/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/stepper/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/stepper/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/stepper/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/stepper/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/steps/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/steps/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/steps/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/steps/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/submit-bar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/submit-bar/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/submit-bar/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/submit-bar/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/swipe-cell/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/swipe-cell/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/swipe-cell/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/swipe-cell/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/switch-cell/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/switch-cell/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/switch-cell/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/switch-cell/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/switch/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/switch/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/switch/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/switch/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tab/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tab/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tab/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tab/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tabbar-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tabbar-item/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tabbar-item/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tabbar-item/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tabbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tabbar/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tabbar/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tabbar/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tabs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tabs/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tabs/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tabs/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tag/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tag/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tag/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tag/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/toast/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/toast/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/toast/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/toast/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/toast/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/transition/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/transition/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/transition/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/transition/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tree-select/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tree-select/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tree-select/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/tree-select/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/wxs/array.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/wxs/bem.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/wxs/memoize.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/wxs/object.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnacksBox/snacks-box/static/vant/wxs/utils.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bokeSystem/src/images/uBio - Secret Base - 吉他版.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bokeSystem/src/pages/FistPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bokeSystem/static/font/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bokeSystem/static/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bokeSystem/static/font/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bokeSystem/static/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bokeSystem/static/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bokeSystem/static/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bokeSystem/static/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bokeSystem/static/loading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bokeSystem/static/loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bokeSystem/static/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/1(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-51.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-56.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/10(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-71.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/11(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-72.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/12(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-73.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/13(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-74.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/15(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/16(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-81.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-86.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/18(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-75.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/18s_by_wlop-dc5x6hh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/19(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-82.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/19s_by_wlop-db1w7w3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/19s_by_wlop-dbsw09i.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/1s_by_wlop-dc1sdan(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-62.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/2(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-63.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/20(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-76.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/21(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/22(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-77.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/23(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-34.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/24(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-35.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/25(1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/26(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/26s_by_wlop-db3wpj2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/26s_by_wlop-dc8ykdg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/27(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/28(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/29(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-39.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/2s_by_wlop-darvb38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/3 (2).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-80.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/3(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-64.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/30(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/31(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-83.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/32(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/33(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/34(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-78.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/35(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-79.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/36(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-84.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/36s_by_wlop-dcab1m2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/37(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-43.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/38(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-85.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/4(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-65.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-44.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/48.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-46.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/49.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-47.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/5(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-66.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/52.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-48.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/53.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-49.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/54.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-50.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/55.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-61.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/56.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-59.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/57.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-58.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/57s_by_wlop-dcdyfym.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/58.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-57.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/59.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-55.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/5s_by_wlop-dcgl99w.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/6(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-67.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/60.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-52.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/7(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-68.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/7s_by_wlop-dav41t7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/8(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-69.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/9(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-70.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/9s_by_wlop-d8pa466.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/9s_by_wlop-dchjjtf.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/Mumei wallpaper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-88.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/Princess PSD file.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-89.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/Wake 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-91.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/Wake.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/aeolian3_by_wlop-dbztbo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-53.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/aeolian_dance_by_wlop-d9gmgvl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/ball_by_wlop-dck9pl1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/battle_by_wlop-d8w7pvt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/coronation_by_wlop-d9z7r9u.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/coronation_by_wlop-d9z7r9u_看图王.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-54.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/dressing_by_wlop-dc845dv.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/duel_by_wlop-d9ugn0e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/fall_by_wlop-d96fxqh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/guard_by_wlop-d9kmnxu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/homesick_by_wlop-d8vlh61.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/ice_princess_by_wlop-d8y5iha.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/jade_by_wlop-d9n5wvp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/landing_by_wlop-d9haefr.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/lean_by_wlop-d935vg4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/light_and_darkness_by_wlop-d7c7hcn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/lion_by_wlop-dcbk7fi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/sacrifice.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-87.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/sea_by_wlop-d9rb761.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/sky_lanterns_by_wlop-d7b5nfg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/sob_by_wlop-d7z0508.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-60.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/the_lonely_parade_by_wlop-d9bvu6u.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/images/the_lonely_parade_by_wlop-dbukepi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/images/bg-24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/src/css/firstPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/src/css/firstPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boke/static/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Boke/static/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api文档.md" beforeDir="false" afterPath="$PROJECT_DIR$/api文档.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../kit_admin/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin/src/js/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/../kit_admin/src/js/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/kitadmin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/kitadmin.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/login.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/nprogress.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/blue-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/blue-dark.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/blue-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/blue-light.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/default.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/green-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/green-dark.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/green-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/green-light.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/purple-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/purple-dark.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/purple-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/purple-light.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/red-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/red-dark.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/red-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/css/theme/red-light.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/docs/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/docs/mockjs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/docs/route.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/docs/tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/docs/utils.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/cascader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/inputnumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/kit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/lodash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/mockjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/mockjsbase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/nprogress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/sidebar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/js/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/kitadmin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/css/layui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/css/layui.mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/css/modules/code.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/css/modules/laydate/default/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/css/modules/layer/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/css/modules/layer/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/css/modules/layer/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/css/modules/layer/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/css/modules/layer/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/css/modules/layer/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/font/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/font/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/13.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/15.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/17.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/18.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/19.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/20.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/21.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/22.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/23.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/24.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/25.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/26.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/27.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/28.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/29.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/30.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/31.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/33.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/34.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/35.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/36.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/37.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/38.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/39.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/40.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/41.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/42.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/43.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/44.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/45.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/46.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/47.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/48.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/49.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/50.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/51.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/52.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/53.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/54.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/55.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/56.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/57.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/58.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/59.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/60.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/61.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/62.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/63.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/64.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/65.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/66.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/67.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/68.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/69.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/70.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/71.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/images/face/9.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/colorpicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/laydate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/layedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/laypage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/laytpl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/rate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/lay/modules/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/layui.all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/layui/layui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/lib/polyfill.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/mockjs/mockjs-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/temp/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/cascader/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/exception/403.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/exception/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/exception/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/form/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/inputnumber.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/anim.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/auxiliar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/badge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/flow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/laydate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/layer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/laypage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/laytpl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/progress.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/tab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/table-element.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/temp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/timeline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/layui/util.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/select/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/setting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/table/teble.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/table/teble2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/table/teble3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/user/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/user/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/src/views/user/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin2/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/kitadmin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/kitadmin.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/login.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/nprogress.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/blue-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/blue-dark.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/blue-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/blue-light.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/default.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/green-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/green-dark.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/green-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/green-light.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/purple-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/purple-dark.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/purple-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/purple-light.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/red-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/red-dark.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/red-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/css/theme/red-light.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/docs/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/docs/route.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/docs/tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/docs/utils.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/cascader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/inputnumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/kit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/lodash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/nprogress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/sidebar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/js/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/kitadmin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/css/layui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/css/layui.mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/css/modules/code.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/css/modules/laydate/default/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/css/modules/layer/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/css/modules/layer/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/css/modules/layer/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/css/modules/layer/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/css/modules/layer/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/css/modules/layer/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/font/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/font/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/13.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/15.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/17.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/18.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/19.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/20.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/21.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/22.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/23.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/24.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/25.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/26.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/27.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/28.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/29.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/30.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/31.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/33.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/34.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/35.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/36.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/37.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/38.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/39.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/40.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/41.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/42.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/43.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/44.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/45.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/46.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/47.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/48.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/49.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/50.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/51.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/52.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/53.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/54.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/55.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/56.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/57.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/58.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/59.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/60.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/61.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/62.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/63.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/64.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/65.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/66.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/67.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/68.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/69.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/70.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/71.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/images/face/9.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/colorpicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/laydate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/layedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/laypage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/laytpl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/rate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/lay/modules/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/layui.all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/layui/layui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/lib/polyfill.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/Administrators/Administrators.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/CashRegister/MyGoods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/MyAssets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/MyGoods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/MyOnlines.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/MyOrders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/MyShops.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/MyStaffs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/exception/403.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/exception/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/exception/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/pages/setting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/temp/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/cascader/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/exception/403.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/exception/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/exception/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/form/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/inputnumber.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/anim.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/auxiliar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/badge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/flow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/laydate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/layer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/laypage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/laytpl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/progress.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/tab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/table-element.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/temp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/timeline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/layui/util.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/select/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/setting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/table/teble.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/table/teble2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/table/teble3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/user/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/user/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/src/views/user/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kit_admin3/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniProjectDemo/src/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../miniProjectDemo/src/app.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniProjectDemo/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../miniProjectDemo/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniProjectDemo/src/pages/index/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../miniProjectDemo/src/pages/index/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniProjectDemo/src/pages/index/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../miniProjectDemo/src/pages/index/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resource/dist.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../resource/dist.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resource/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../resource/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/js/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/js/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/js/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/js/ajax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/MyAssets.html" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/MyAssets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/MyGoods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/MyGoods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/MyOnlines.html" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/MyOnlines.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/MyOrders.html" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/MyOrders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/MyShops.html" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/MyShops.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/MyStaffs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/MyStaffs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/SetPassword.html" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/SetPassword.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/qwe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/kit_admin2/src/pages/qwe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/src/router/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="318576364">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="5" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="3" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="ejs" value="1" />
+          <entry key="head-selector" value="1" />
+          <entry key="html" value="5" />
+          <entry key="js" value="302" />
+          <entry key="json" value="18" />
+          <entry key="jsx" value="224" />
+          <entry key="less" value="30" />
+          <entry key="md" value="2" />
+          <entry key="null/ZhaoPin-servers/users" value="2" />
+          <entry key="null/ZhaoPinSQL/users" value="9" />
+          <entry key="png" value="3" />
+          <entry key="secketIO_test" value="1" />
+          <entry key="ts" value="1" />
+          <entry key="www" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="12575" />
+          <entry key="json" value="48" />
+          <entry key="jsx" value="14032" />
+          <entry key="less" value="285" />
+          <entry key="txt" value="57" />
+          <entry key="www" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="EJS" value="1" />
+          <entry key="HTML" value="5" />
+          <entry key="Image" value="3" />
+          <entry key="JSON" value="18" />
+          <entry key="JSX Harmony" value="221" />
+          <entry key="JavaScript" value="315" />
+          <entry key="Less" value="30" />
+          <entry key="MONGO" value="11" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="TypeScript" value="1" />
+          <entry key="TypeScript JSX" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="48" />
+          <entry key="JSX Harmony" value="14032" />
+          <entry key="JavaScript" value="12618" />
+          <entry key="Less" value="285" />
+          <entry key="PLAIN_TEXT" value="57" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api文档.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ZhaoPin-servers/bin/www">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nModified</find>
+      <find>dispath</find>
+      <find>ZhaoPinSQL</find>
+      <find>users</find>
+      <find>register</find>
+      <find>getMsgList</find>
+      <find>debugger</find>
+      <find>unReadCount</find>
+      <find>receiveMsgList</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>dispatch</replace>
+      <replace>MyServers</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/zhaopin-server/src/index.js" />
+        <option value="$PROJECT_DIR$/zhaopin-server/src/components/logo/logo.jsx.js" />
+        <option value="$PROJECT_DIR$/zhaopin-server/src/components/logo/logo.less" />
+        <option value="$PROJECT_DIR$/zhaopin-server/src/components/logo/logo.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-server/src/constainers/register/register.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-server/src/constainers/login/login.jsx" />
+        <option value="$PROJECT_DIR$/ZhaoPin-servers/package.json" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/api/ajax.js" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/assets/css/error-msg.css" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/components/logo/logo.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/constainers/login/login.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/components/heade-selector/head-selector.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/utils/index.js" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/components/not-found/notfound.jsx" />
+        <option value="$PROJECT_DIR$/ZhaoPin-servers/socketIO/test.js" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/test/secketIO_test.js" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/constainers/chat/message.jsx" />
+        <option value="D:/自学资料/（20）尚硅谷-React项目-硅谷直聘/源码/code/gzhipin-server_final/db/models.js" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/index.js" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/constainers/dashen/dashen.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/constainers/laoban/laoban.jsx" />
+        <option value="D:/自学资料/（20）尚硅谷-React项目-硅谷直聘/源码/code/gzhipin-client_final/src/assets/css/index.less" />
+        <option value="D:/自学资料/（20）尚硅谷-React项目-硅谷直聘/源码/code/gzhipin-client_final/src/components/nav-footer/nav-footer.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/assets/css/index.less" />
+        <option value="$PROJECT_DIR$/ZhaoPin-servers/db/modules.js" />
+        <option value="$PROJECT_DIR$/ZhaoPin-servers/db/db_test.js" />
+        <option value="D:/自学资料/（20）尚硅谷-React项目-硅谷直聘/源码/code/gzhipin-server_final/routes/index.js" />
+        <option value="$PROJECT_DIR$/ZhaoPin-servers/socketIO/socketIO_server.js" />
+        <option value="$PROJECT_DIR$/ZhaoPin-servers/routes/index.js" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/redux/action-types.js" />
+        <option value="D:/自学资料/（20）尚硅谷-React项目-硅谷直聘/源码/code/gzhipin-client_final/src/containers/chat/chat.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/api/index.js" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/redux/reducers.js" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/constainers/message/message.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/redux/actions.js" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/components/nav-footer/nav-footer.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/config-overrides.js" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/components/user-list/user-list.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/constainers/dashen-info/dashen-info.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/constainers/laoban-info/laoban-info.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/constainers/personal/personal.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/constainers/register/register.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/components/logo/logo.less" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/components/header-selector/header-selector.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/constainers/chat/chat.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/src/constainers/main/main.jsx" />
+        <option value="$PROJECT_DIR$/zhaopin-client/build/manifest.json" />
+        <option value="$PROJECT_DIR$/zhaopin-client/package.json" />
+        <option value="$PROJECT_DIR$/ZhaoPin-servers/bin/www" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ZhaoPin-servers/node_modules" />
+    <handled-path value="$PROJECT_DIR$/zhaopin-client/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ZhaoPin-servers/package.json" />
+      <path value="$PROJECT_DIR$/zhaopin-client/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/zhaopin-client/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ZhaoPin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZhaoPin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZhaoPin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZhaoPin" type="462c0819:PsiDirectoryNode" />
+              <item name="ZhaoPin-servers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZhaoPin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZhaoPin" type="462c0819:PsiDirectoryNode" />
+              <item name="ZhaoPin-servers" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="PropTypes&#9;null&#9;null&#10;prop&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/网页" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Work\WebStorm 2018.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitHomes\Githubs\ZhaoPin\zhaopin-client" />
+      <recent name="F:\GitHomes\Githubs\ZhaoPin\zhaopin-client\src\constainers\chat" />
+      <recent name="F:\GitHomes\Githubs\ZhaoPin\zhaopin-client\src\components\nav-footer" />
+      <recent name="F:\GitHomes\Githubs\ZhaoPin\zhaopin-client\src\constainers" />
+      <recent name="F:\GitHomes\Githubs\ZhaoPin\zhaopin-client\src\components\header-selector\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GitHomes\Githubs\ZhaoPin\zhaopin-client\src\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mongo.modules.js">
+    <configuration name="modules.js" type="MongoRunConfiguration" factoryName="Mongo">
+      <module name="ZhaoPin" />
+      <setting name="path" value="$PROJECT_DIR$/ZhaoPin-servers/db/modules.js" />
+      <setting name="shellParams" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="socketIO_server.js" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <module name="ZhaoPin" />
+      <setting name="path" value="$PROJECT_DIR$/ZhaoPin-servers/socketIO/socketIO_server.js" />
+      <setting name="shellParams" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="db_test.js" working-dir="$PROJECT_DIR$/ZhaoPin-servers/db">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mongo.modules.js" />
+      <item itemvalue="Node.js.db_test.js" />
+      <item itemvalue="Mongo.socketIO_server.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.db_test.js" />
+        <item itemvalue="Mongo.socketIO_server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18e30c2c-68aa-4989-8340-3dd561e69115" name="Default Changelist" comment="" />
+      <created>1536540580958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536540580958</updated>
+      <workItem from="1536540584066" duration="7020000" />
+      <workItem from="1536564258094" duration="4885000" />
+      <workItem from="1536569572515" duration="1405000" />
+      <workItem from="1536575615045" duration="5239000" />
+      <workItem from="1536647790141" duration="7110000" />
+      <workItem from="1536716538567" duration="7318000" />
+      <workItem from="1536750759803" duration="6502000" />
+      <workItem from="1536817122142" duration="16860000" />
+      <workItem from="1536885128952" duration="10111000" />
+      <workItem from="1536972904651" duration="12681000" />
+      <workItem from="1537058173939" duration="8491000" />
+      <workItem from="1537066743547" duration="1510000" />
+      <workItem from="1537144905131" duration="23137000" />
+      <workItem from="1537178221295" duration="11473000" />
+      <workItem from="1537317387603" duration="3250000" />
+      <workItem from="1537354859213" duration="599000" />
+      <workItem from="1537432729627" duration="3996000" />
+      <workItem from="1537490901761" duration="7617000" />
+      <workItem from="1537500540645" duration="20000" />
+      <workItem from="1537925862573" duration="8420000" />
+      <workItem from="1537935173469" duration="24572000" />
+      <workItem from="1538026864682" duration="6698000" />
+      <workItem from="1538033915357" duration="3261000" />
+      <workItem from="1538038454671" duration="317000" />
+      <workItem from="1538047387529" duration="26000" />
+      <workItem from="1540349239186" duration="811000" />
+      <workItem from="1540447525347" duration="3925000" />
+      <workItem from="1550124227444" duration="349000" />
+    </task>
+    <task id="LOCAL-00001" summary="聊天功能后台/socketIO实现/头部顶部导航">
+      <created>1537146047415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537146047415</updated>
+    </task>
+    <task id="LOCAL-00002" summary="表情列表/聊天界面/信息列表组件/更换数据库">
+      <created>1537190755791</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537190755791</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="187603000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20045386" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.51311475" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49848714" visible="true" weight="0.30546075" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" weight="0.18986385" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="聊天功能后台/socketIO实现/头部顶部导航" />
+    <MESSAGE value="表情列表/聊天界面/信息列表组件/更换数据库" />
+    <option name="LAST_COMMIT_MESSAGE" value="表情列表/聊天界面/信息列表组件/更换数据库" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/自学资料/（20）尚硅谷-React项目-硅谷直聘/源码/code/gzhipin-client_final/src/containers/message/message.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
+          <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/自学资料/（20）尚硅谷-React项目-硅谷直聘/源码/code/gzhipin-client_final/src/containers/chat/chat.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/自学资料/（20）尚硅谷-React项目-硅谷直聘/源码/code/gzhipin-client_final/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="23" column="43" selection-start-line="23" selection-end-line="23" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/自学资料/（20）尚硅谷-React项目-硅谷直聘/源码/code/gzhipin-client_final/src/components/nav-footer/nav-footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/自学资料/（20）尚硅谷-React项目-硅谷直聘/源码/code/gzhipin-client_final/src/containers/main/main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="128" column="23" lean-forward="true" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhaoPin-servers/socketIO/socketIO_server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/redux/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="4" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/自学资料/（20）尚硅谷-React项目-硅谷直聘/源码/code/gzhipin-client_final/src/redux/reducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="67" column="37" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/build/static/media/wx.7e059704.png" />
+    <entry file="file://D:/自学资料/（20）尚硅谷-React项目-硅谷直聘/源码/code/gzhipin-client_final/src/redux/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhaoPin-servers/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/redux/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/redux/action-types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/redux/reducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1476">
+          <caret line="52" column="10" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/components/not-found/notfound.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/constainers/laoban/laoban.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/constainers/dashen/dashen.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/components/user-list/user-list.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/constainers/dashen-info/dashen-info.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/constainers/laoban-info/laoban-info.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="48" column="23" lean-forward="true" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/constainers/login/login.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-864" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/constainers/personal/personal.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/constainers/register/register.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="60" column="50" lean-forward="true" selection-start-line="60" selection-start-column="50" selection-end-line="60" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/components/logo/wx.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/components/logo/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/components/nav-footer/nav-footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="69" column="34" lean-forward="true" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/components/logo/logo.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/constainers/message/message.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/constainers/chat/chat.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2489">
+          <caret line="134" column="12" selection-start-line="134" selection-start-column="12" selection-end-line="134" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhaoPin-servers/node_modules/mongodb-core/lib/connection/pool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6004">
+          <caret line="316" column="11" selection-start-line="316" selection-start-column="11" selection-end-line="316" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/components/logo/logo.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/components/header-selector/header-selector.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/constainers/main/main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/build1/build.js" />
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/build/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="66" selection-start-column="66" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/gzhipin-client/package.json" />
+    <entry file="file://$PROJECT_DIR$/demo/gzhipin-client/public/manifest.json" />
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/config-overrides.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhaoPin-servers/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhaoPin-servers/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhaoPin-servers/db/db_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhaoPin-servers/db/modules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhaopin-client/src/api/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api文档.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="188" column="24" lean-forward="true" selection-start-line="188" selection-start-column="17" selection-end-line="188" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhaoPin-servers/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
